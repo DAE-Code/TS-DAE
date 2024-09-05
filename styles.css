@@ -86,6 +86,10 @@ margin:0;
 padding:0.6em 10px;
 }
 
+.field {
+display: flex;
+}
+
 a {
 color:#000;
 text-decoration:underline;
@@ -93,7 +97,7 @@ text-decoration:underline;
 
 body {
 background-color:#CDCDCD;
-font-family:'ƒqƒ‰ƒMƒmŠpƒS Pro W3','Hiragino Kaku Gothic Pro','ƒƒCƒŠƒI',Meiryo,'MS PƒSƒVƒbƒN',sans-serif;
+font-family:'ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ Pro W3','Hiragino Kaku Gothic Pro','ãƒ¡ã‚¤ãƒªã‚ª',Meiryo,'MS Pã‚´ã‚·ãƒƒã‚¯',sans-serif;
 font-size:1em;
 }
 
@@ -122,7 +126,7 @@ font-size:0.9em;
 margin:0.6em 0.5em 0.2em 1.5em;
 }
 
-/* ‚±‚±‚©‚ç‰º@’Ç‰Á€–Ú */
+/* ã“ã“ã‹ã‚‰ä¸‹ã€€è¿½åŠ é …ç›® */
 
 p {
 margin:1px 0.5em 0.5em 1.5em;
@@ -170,5 +174,5 @@ div.comment p.linkarea a {
  width: 100%;
  height: 100%;
  text-indent:-999px;
- filter:alpha(opacity=0); /*ƒtƒBƒ‹ƒ^[‚Å“§–¾‚É*/
+ filter:alpha(opacity=0); /*ãƒ•ã‚£ãƒ«ã‚¿ãƒ¼ã§é€æ˜Žã«*/
 }
